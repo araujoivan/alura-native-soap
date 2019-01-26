@@ -27,6 +27,18 @@ public class TesteItemParaXML {
         
         marshaller.marshal(item, new File("item.xml"));
 
-    }
+    }  
+    
+    /*
+    create item.xml with content below
+    
+    <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <item>
+        <codigo>33</codigo>
+        <nome>Asus</nome>
+        <tipo>Notebook</tipo>
+        <quantidade>3</quantidade>
+    </item>
+    */
     
 }
