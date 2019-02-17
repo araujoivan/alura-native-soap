@@ -18,7 +18,7 @@ from project folder text:
 
 With these classes we can create a client for our service. EstoqueWS interface is ready
 to receive something which calls Port. Port is nothing but an object that communicate with service!
-It abstract all details of how establish a HTTP connection and generate SOAP message. In some cases
+It abstracts all details of how to establish a HTTP connection and generate SOAP message. In some cases
 it is also called stub. Anyway, in the design patterns world this object is also called proxy
 or remote proxy. Three names for just one thing. Port, Stub or Remote Proxy
 
