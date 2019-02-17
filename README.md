@@ -1,4 +1,4 @@
-# Implementing an SOAP client and Service using native javax-ws specification
+# Implementing a SOAP Client and Service using native javax-ws specification
 
 estoque-cliente	-> A basic sample of SOAP client implementation using jax-ws native libraries.
 estoque-service -> A basic sample of SOAP service implementation using jax-ws native libraries.
