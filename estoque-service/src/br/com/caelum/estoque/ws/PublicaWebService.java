@@ -8,7 +8,6 @@ package br.com.caelum.estoque.ws;
 import javax.xml.ws.Endpoint;
 
 /**
- *WSDL means Web Service Description Language 
  * 
  * @author eder
  */
